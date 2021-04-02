@@ -1,0 +1,111 @@
+#content {
+    width: 100%;
+    height: 100%;
+}
+
+#content .content-in {
+    width: 1200px;
+    height: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#content .content-in .content-in-main {
+    width: 100%;
+    height: 100%;
+    padding: 20px 0;
+    box-sizing: border-box;
+    background-color: #e8e8e8;
+}
+
+#content .content-in .content-in-main .content-in-main-min {
+    width: 100%;
+    height: 100%;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side {
+    width: 390px;
+    height: 100%;
+    padding: 0 30px;
+    box-sizing: border-box;
+    float: left;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-title {
+    width: 100%;
+    height: 30px;
+    line-height: 30px;
+    color: #fff;
+    font-size: 14px;
+    padding-left: 10px;
+    box-sizing: border-box;
+    background-color: #005a99;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-content {
+    width: 100%;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-content a {
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+    padding: 0 20px;
+    box-sizing: border-box;
+    border-bottom: 1px dashed #ccc;
+    text-decoration: none;
+    color: #5e8cbd;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-content a:hover, #content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-content a.current2 {
+    color: #DC143C;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-side .content-in-main-min-side-content a span {
+    float: right;
+    line-height: 40px;
+}
+
+#content .content-in .content-in-main .content-in-main-min .content-in-main-min-content {
+    width: 790px;
+    height: 100%;
+    float: right;
+}
+#content .teachshow-head{
+	width:100px;
+	float:left;
+
+}
+#content .teachshow-head img{
+	display:block;
+	width:100%;
+	
+}
+#content .teachshow-text{
+	float:right;
+	width:580px;
+	margin-right:60px;
+	text-align:justify;
+}
+
+#content .teachshow-head2{
+	margin-top:150px;
+	width:100px;
+		
+					float:left;
+
+}
+#content .teachshow-head2 img{
+	display:block;
+	width:100%;
+	
+}
+#content .teachshow-text2{
+	float:right;
+	width:580px;
+	margin-right:60px;
+	margin-top:30px;
+	text-align:justify;
+}
